@@ -1,0 +1,14 @@
+// overview description file for de_pathway.bsp
+
+global 
+{
+	ZOOM	1.16
+	ORIGIN	-515.75 	-928	-304
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/de_pathway.bmp"
+	HEIGHT	-705
+}
